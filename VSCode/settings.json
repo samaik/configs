@@ -1,0 +1,20 @@
+{
+    "editor.fontFamily": "'Fira Code', 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 12,
+    "terminal.external.windowsExec": "C:\\Windows\\System32\\wsl.exe",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\wsl.exe",
+    "python.jediEnabled": false,
+    "terminal.integrated.fontFamily": "FuraCode NF",
+    "files.autoSave": "off",
+    "git.autofetch": true,
+    "terminal.integrated.fontSize": 13,
+    "editor.formatOnSave": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.linting.flake8Args": [
+        "--ignore=E501"
+    ],
+    "prettier.tabWidth": 4
+}
